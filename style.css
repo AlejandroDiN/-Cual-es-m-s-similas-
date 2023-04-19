@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(rgb(80, 219, 0), rgb(0, 255, 106), rgb(0, 255, 170), rgb(0, 238, 255), rgb(0, 174, 255), rgb(0, 140, 255), rgb(0, 102, 255), rgb(0, 38, 255), rgb(89, 0, 255));
+    color:rgb(0, 0, 82);
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+#camera{
+    border: 3px dashed dodgerblue;
+    width: 400px;
+    height: 300px;
+}
+.name_objects, #result_object_name, #result_object_accuracy{
+color:teal ;
+}
